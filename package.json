@@ -1,7 +1,7 @@
 {
   "name": "react-playground",
   "private": false,
-  "homepage": "https://mareckkkk.github.io/goit-react-hw-01-components/",
+  "homepage": "https://mareckkkk.github.io/goit-react-hw-02-phonebook/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "version": "0.0.0",
